@@ -1,2 +1,2 @@
-# Typescript
-Understanding and the Usefulness of Typescript
+# typescriptDemo
+ Understanding and usefullness of typescript
